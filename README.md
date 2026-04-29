@@ -1,2 +1,2 @@
 # CTF-Writeups
-Writeups for various CTFs I participated in
+These are writeups for Capture the Flag (CTF) competitions I participated in.
